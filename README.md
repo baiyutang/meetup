@@ -6,6 +6,6 @@
 * [segmentfault活动栏目](https://segmentfault.com/events)
 
 ## contributors
-<a href="https://github.com/baiyutang"><img src="https://avatars3.githubusercontent.com/u/10782183?s=30" alt="baidutang" style="border-radius:50%">
+<a href="https://github.com/baiyutang"><img src="https://avatars3.githubusercontent.com/u/10782183?s=30" alt="baidutang" style="border-radius:15px">
 </a>
 
