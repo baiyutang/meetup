@@ -2,6 +2,7 @@
 
 ## 资源
 * [2019极客时间50G大礼包](https://pan.baidu.com/s/1ciU3H2WREoQnxR7ZnqJSPw) 提取码: <code>dtva</code>
+* [2018TOP100全球软件案例研究峰会](https://pan.baidu.com/s/1ikqPLQRzIyjReOszkmw7zg) 提取码: <code>5rtm</code>
 
 ## 活动
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
