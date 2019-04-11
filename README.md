@@ -1,4 +1,4 @@
-# 国内各大技术会议、活动、分享
+# 技术会议、活动、分享
 
 ## ppt打包
 * [2019极客时间50G大礼包](https://pan.baidu.com/s/1ciU3H2WREoQnxR7ZnqJSPw) 提取码: <code>dtva</code>
@@ -14,6 +14,7 @@
 * [QCon全球软件开发大会](https://2019.qconbeijing.com/)
 * [GMTC全球大前端技术大会](https://gmtc2019.geekbang.org/)
 * [ArchSummit全球架构师峰会](https://sz2019.archsummit.com/)
+* [CssConf](http://cssconf.org/)
 
 
 ## 活动发布平台
