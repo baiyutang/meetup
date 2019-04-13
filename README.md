@@ -29,6 +29,9 @@
 ## 线上
 * [腾讯大学](https://daxue.qq.com/)
 
+## 相关推荐
+* [互联网公司技术架构-大厂公开分享的技术总结](https://github.com/davideuler/architecture.of.internet-product)
+
 ## contributors
 <a href="https://github.com/baiyutang"><img src="https://avatars3.githubusercontent.com/u/10782183?s=30" alt="baidutang" style="border-radius:15px">
 </a>
