@@ -15,7 +15,6 @@
 * [GMTC全球大前端技术大会](https://gmtc2019.geekbang.org/)
 * [ArchSummit全球架构师峰会](https://sz2019.archsummit.com/)
 * [CssConf](http://cssconf.org/)
-* [全球互联网架构大会](https://www.msup.com.cn/)
 
 ## 活动发布平台
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
