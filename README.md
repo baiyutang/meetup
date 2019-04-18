@@ -23,7 +23,7 @@
 * [活动家](https://www.huodongjia.com/)
 * [百格活动](https://www.bagevent.com/)
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
-* [Elastic Meetup-Elastic 官方中文社区定期举办的线下交流活动](https://meetup.elasticsearch.cn/event/index.html)
+* [Elastic Meetup - Elastic 官方中文社区定期举办的线下交流活动](https://meetup.elasticsearch.cn/event/index.html)
 * [互动吧](https://www.hdb.com/)
 
 ## 线上
