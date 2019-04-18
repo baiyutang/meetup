@@ -26,9 +26,6 @@
 * [Elastic Meetup - Elastic 官方中文社区定期举办的线下交流活动](https://meetup.elasticsearch.cn/event/index.html)
 * [互动吧](https://www.hdb.com/)
 
-## 线上
-* [腾讯大学](https://daxue.qq.com/)
-
 ## 相关推荐
 * [互联网公司技术架构-大厂公开分享的技术总结](https://github.com/davideuler/architecture.of.internet-product)
 
