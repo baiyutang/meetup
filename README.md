@@ -20,10 +20,10 @@
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
 * [活动行-可以多留意这里](http://www.huodongxing.com/)
 * [segmentfault-活动](https://segmentfault.com/events)
-* [互动吧](https://www.hdb.com/)
 * [掘金-活动](https://juejin.im/events/all)
 * [活动家](https://www.huodongjia.com/)
 * [百格活动](https://www.bagevent.com/)
+* [互动吧](https://www.hdb.com/)
 
 ## 线上
 * [腾讯大学](https://daxue.qq.com/)
