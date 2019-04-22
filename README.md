@@ -5,6 +5,7 @@
 * [2018TOP100全球软件案例研究峰会](https://pan.baidu.com/s/1ikqPLQRzIyjReOszkmw7zg) 提取码: <code>5rtm</code>
 * [全球互联网架构大会[上海站]](https://pan.baidu.com/s/1omz7ngysZCHq1UBUTwJjLg) 提取码: <code>pqm7</code>
 * [Elasticsearch Slides - 在线阅读](https://elasticsearch.cn/slides/)
+* [又拍云OpenTalk Slides - 在线阅读](https://opentalk.upyun.com/)
 
 ## 视频
 * [2017 GTLC 全球技术领导力峰会](https://daxue.qq.com/content/content/id/3384)
