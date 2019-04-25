@@ -17,6 +17,7 @@
 * [GMTC全球大前端技术大会](https://gmtc2019.geekbang.org/)
 * [ArchSummit全球架构师峰会](https://sz2019.archsummit.com/)
 * [CssConf](http://cssconf.org/)
+* [中国DevOps社区](https://DevOpsChina.org),  [近期活动](https://www.hdb.com/u/bqaf3u.html)
 
 ## 活动发布平台
 * [活动行-可以多留意这里](http://www.huodongxing.com/)
