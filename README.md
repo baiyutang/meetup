@@ -30,6 +30,7 @@
 * [互动吧](https://www.hdb.com/)
 
 ## 相关推荐
+* [SpringCloud中国社区 2017-2018活动汇总](https://github.com/SpringCloud/spring-cloud-document)
 * [互联网公司技术架构-大厂公开分享的技术总结](https://github.com/davideuler/architecture.of.internet-product)
 
 ## contributors
