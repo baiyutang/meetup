@@ -18,6 +18,7 @@
 * [ArchSummit全球架构师峰会](https://sz2019.archsummit.com/)
 * [CssConf](http://cssconf.org/)
 * [中国DevOps社区](https://DevOpsChina.org),  [近期活动](https://www.hdb.com/u/bqaf3u.html)
+* [Elastic Meetup - Elastic 官方中文社区定期举办的线下交流活动](https://meetup.elasticsearch.cn/event/index.html)
 
 ## 活动发布平台
 * [活动行-可以多留意这里](http://www.huodongxing.com/)
@@ -26,7 +27,6 @@
 * [活动家](https://www.huodongjia.com/)
 * [百格活动](https://www.bagevent.com/)
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
-* [Elastic Meetup - Elastic 官方中文社区定期举办的线下交流活动](https://meetup.elasticsearch.cn/event/index.html)
 * [互动吧](https://www.hdb.com/)
 
 ## 相关推荐
