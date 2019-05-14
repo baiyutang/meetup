@@ -10,6 +10,8 @@
 ## 视频
 * [2017 GTLC 全球技术领导力峰会](https://daxue.qq.com/content/content/id/3384)
 * [2016 全球技术领导力峰会——技术与领导力专场](https://daxue.qq.com/content/content/id/2732)
+* [Apache Kafka × Apache Flink Meetup-北京站-云栖社区视频源](https://yq.aliyun.com/live/981)
+* [Apache Kafka × Apache Flink Meetup-北京站-bilibili视频源](https://space.bilibili.com/33807709)
 
 ## 技术会议主页
 * [GIAC全球互联网架构大会](http://www.thegiac.com/index.php)
