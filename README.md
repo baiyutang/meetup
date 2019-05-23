@@ -14,6 +14,7 @@
 * [Apache Kafka × Apache Flink Meetup-北京站-bilibili视频源](https://space.bilibili.com/33807709)
 
 ## 技术会议主页
+### 国内
 * [GIAC全球互联网架构大会](http://www.thegiac.com/index.php)
 * [QCon全球软件开发大会](https://2019.qconbeijing.com/)
 * [GMTC全球大前端技术大会](https://gmtc2019.geekbang.org/)
@@ -21,6 +22,8 @@
 * [CssConf](http://cssconf.org/)
 * [中国DevOps社区](https://DevOpsChina.org),  [近期活动](https://www.hdb.com/u/bqaf3u.html)
 * [Elastic Meetup - Elastic 官方中文社区定期举办的线下交流活动](https://meetup.elasticsearch.cn/event/index.html)
+### 国际
+* [Laracon](https://laracon.net/)
 
 ## 活动发布平台
 * [活动行-可以多留意这里](http://www.huodongxing.com/)
