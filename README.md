@@ -3,7 +3,8 @@
 ## PPT打包
 * [2019极客时间50G大礼包](https://pan.baidu.com/s/1x9uOtN7BpK_ho0vpd8Y19g) 提取码: <code>2wfv</code>
 * [2018TOP100全球软件案例研究峰会]( https://pan.baidu.com/s/1OyT4ahErtslMhgiv3yYtig) 提取码: <code>y19w</code>
-* [全球互联网架构大会[上海站]](https://pan.baidu.com/s/1WVrWqS0MTvoD9sAW6iOlnQ) 提取码: <code>8p5r</code>
+* [2018全球互联网架构大会[上海]](https://pan.baidu.com/s/1WVrWqS0MTvoD9sAW6iOlnQ) 提取码: <code>8p5r</code>
+* [2018全球互联网架构大会[深圳]](https://pan.baidu.com/s/14Ozt75PYif_clustviXOkA) 提取码: <code>f8if</code>
 * [Elasticsearch Slides - 在线阅读](https://elasticsearch.cn/slides/)
 * [又拍云OpenTalk Slides - 在线阅读](https://opentalk.upyun.com/)
 
