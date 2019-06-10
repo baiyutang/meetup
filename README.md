@@ -42,6 +42,7 @@
 ## 相关推荐
 * [SpringCloud中国社区 2017-2018活动汇总](https://github.com/SpringCloud/spring-cloud-document)
 * [互联网公司技术架构-大厂公开分享的技术总结](https://github.com/davideuler/architecture.of.internet-product)
+* [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT] (https://github.com/0voice/from_coder_to_expert)
 
 ## contributors
 <a href="https://github.com/baiyutang"><img src="https://avatars3.githubusercontent.com/u/10782183?s=30" alt="baidutang" style="border-radius:15px">
