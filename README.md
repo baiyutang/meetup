@@ -39,7 +39,7 @@
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
 * [互动吧](https://www.hdb.com/)
 
-## 相关推荐
+## 相关推荐 [其实本仓库资料已经包含了大厂架构和最新总结]
 * [SpringCloud中国社区 2017-2018活动汇总](https://github.com/SpringCloud/spring-cloud-document)
 * [互联网公司技术架构-大厂公开分享的技术总结](https://github.com/davideuler/architecture.of.internet-product)
 * [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert)
