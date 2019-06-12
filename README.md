@@ -8,6 +8,7 @@
 * [2018全球互联网技术大会[北京]](https://pan.baidu.com/s/1MWbYOIFGLXSEQNL2fV_BQg) 提取码: <code>cg3e</code>
 * [Elasticsearch Slides - 在线阅读](https://elasticsearch.cn/slides/)
 * [又拍云OpenTalk Slides - 在线阅读](https://opentalk.upyun.com/)
+* [研发效能提升实践系列课程--阿里巴巴敏捷教练何勉、张燎，需要登录teambition查看](https://www.teambition.com/project/5cec95108eb42a001972fc3b/tasks/scrum/5cec951137be42001ae38f7a)
 
 ## 视频
 * [2017 GTLC 全球技术领导力峰会](https://daxue.qq.com/content/content/id/3384)
