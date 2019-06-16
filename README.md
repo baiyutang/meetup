@@ -40,7 +40,7 @@
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
 * [互动吧](https://www.hdb.com/)
 
-## 相关推荐 [其实本仓库资料已经包含了大厂架构和最新总结]
+## 相关推荐
 * [SpringCloud中国社区 2017-2018活动汇总](https://github.com/SpringCloud/spring-cloud-document)
 
 ## Contributors
