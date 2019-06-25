@@ -40,7 +40,7 @@
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
 * [互动吧](https://www.hdb.com/)
 ## 组织
-× [Linux基金会](https://linuxfoundation.cn/)
+* [Linux基金会](https://linuxfoundation.cn/)
 
 ## 相关推荐
 * [SpringCloud中国社区 2017-2018活动汇总](https://github.com/SpringCloud/spring-cloud-document)
