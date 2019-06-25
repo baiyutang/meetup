@@ -39,6 +39,8 @@
 * [百格活动](https://www.bagevent.com/)
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
 * [互动吧](https://www.hdb.com/)
+## 组织
+× [Linux基金会](https://linuxfoundation.cn/)
 
 ## 相关推荐
 * [SpringCloud中国社区 2017-2018活动汇总](https://github.com/SpringCloud/spring-cloud-document)
@@ -47,5 +49,7 @@
 <a href="https://github.com/baiyutang"><img src="https://avatars3.githubusercontent.com/u/10782183?s=30" alt="baidutang" style="border-radius:15px">
 </a>
 
+## 说明
+相关资料均来自互联网分享，若涉及版权均归原作者所有，若有侵权或使用不当，请联系删除
 ## Community
 * [TL Group](https://t.me/joinchat/KR5uJBYVrA-78poMy94P7w)
