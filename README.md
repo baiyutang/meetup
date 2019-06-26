@@ -26,6 +26,7 @@
 * [GMTC全球大前端技术大会](https://gmtc2019.geekbang.org/)
 * [ArchSummit全球架构师峰会](https://sz2019.archsummit.com/)
 * [CssConf](http://cssconf.org/)
+* [中国软件研发管理行业技术峰会](http://www.csdisummit.com/)
 * [中国DevOps社区](https://DevOpsChina.org),  [近期活动](https://www.hdb.com/u/bqaf3u.html)
 * [Elastic Meetup - Elastic 官方中文社区定期举办的线下交流活动](https://meetup.elasticsearch.cn/event/index.html)
 ### 国际
