@@ -1,6 +1,7 @@
 # 技术会议、活动、分享
 
 ## PPT打包
+* [第43届MPD北京](https://pan.baidu.com/s/1rcuUX_E7fdGgu2-2rsSFXg)提取码:  <code>u2y8 </code>
 * [2019极客时间50G大礼包](https://pan.baidu.com/s/1wBEZVPh9NgUM49IoqH1CQw) 提取码: <code>2qga</code>(已失效，回头通过别的方式补上)
 * [2018TOP100全球软件案例研究峰会]( https://pan.baidu.com/s/1OyT4ahErtslMhgiv3yYtig) 提取码: <code>y19w</code>
 * [2018全球互联网架构大会[上海]](https://pan.baidu.com/s/1WVrWqS0MTvoD9sAW6iOlnQ) 提取码: <code>8p5r</code>
