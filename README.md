@@ -12,6 +12,7 @@
 * [研发效能提升实践系列课程--阿里巴巴敏捷教练何勉、张燎，需要登录teambition查看](https://www.teambition.com/project/5cec95108eb42a001972fc3b/tasks/scrum/5cec951137be42001ae38f7a)
 * [awesome-dubbo](https://github.com/dubbo/awesome-dubbo)
 * [大合集 | 9 场 Dubbo Meetup 回顾视频和PPT下载](http://1t.click/xmd)
+* [2017 第三届PHP全球开发者大会](https://github.com/devlinkcn/ppts_for_php2017)
 
 ## 视频
 * [2017 GTLC 全球技术领导力峰会](https://daxue.qq.com/content/content/id/3384)
