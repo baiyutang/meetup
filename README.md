@@ -40,7 +40,7 @@
 * [活动行-可以多留意这里](http://www.huodongxing.com/)
 * [segmentfault-活动](https://segmentfault.com/events)
 * [掘金-活动](https://juejin.im/events/all)
-* [活动家](https://www.huodongjia.com/)
+* [活动家](https://www.huodongjia.com/) ，有[会议PPT区](https://doc.huodongjia.com/)
 * [百格活动](https://www.bagevent.com/)
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
 * [互动吧](https://www.hdb.com/)
