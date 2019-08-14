@@ -1,6 +1,9 @@
 # 技术会议、活动、分享
 
+## 衍生
+* [【大咖说PHP】分享大厂或大牛的PHP高阶玩法](https://github.com/baiyutang/awesome-php-meetup)
 ## PPT打包
+* [第43届MPD北京](https://pan.baidu.com/s/1rcuUX_E7fdGgu2-2rsSFXg)提取码:  <code>u2y8 </code>
 * [2019极客时间50G大礼包](https://pan.baidu.com/s/1wBEZVPh9NgUM49IoqH1CQw) 提取码: <code>2qga</code>(已失效，回头通过别的方式补上)
 * [2018TOP100全球软件案例研究峰会]( https://pan.baidu.com/s/1OyT4ahErtslMhgiv3yYtig) 提取码: <code>y19w</code>
 * [2018全球互联网架构大会[上海]](https://pan.baidu.com/s/1WVrWqS0MTvoD9sAW6iOlnQ) 提取码: <code>8p5r</code>
@@ -10,6 +13,8 @@
 * [又拍云OpenTalk Slides - 在线阅读](https://opentalk.upyun.com/)
 * [研发效能提升实践系列课程--阿里巴巴敏捷教练何勉、张燎，需要登录teambition查看](https://www.teambition.com/project/5cec95108eb42a001972fc3b/tasks/scrum/5cec951137be42001ae38f7a)
 * [awesome-dubbo](https://github.com/dubbo/awesome-dubbo)
+* [大合集 | 9 场 Dubbo Meetup 回顾视频和PPT下载](http://1t.click/xmd)
+* [2017 第三届PHP全球开发者大会](https://github.com/devlinkcn/ppts_for_php2017)
 
 ## 视频
 * [2017 GTLC 全球技术领导力峰会](https://daxue.qq.com/content/content/id/3384)
@@ -37,7 +42,7 @@
 * [活动行-可以多留意这里](http://www.huodongxing.com/)
 * [segmentfault-活动](https://segmentfault.com/events)
 * [掘金-活动](https://juejin.im/events/all)
-* [活动家](https://www.huodongjia.com/)
+* [活动家](https://www.huodongjia.com/) ，有[会议PPT区](https://doc.huodongjia.com/)
 * [百格活动](https://www.bagevent.com/)
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
 * [互动吧](https://www.hdb.com/)
