@@ -15,6 +15,7 @@
 * [awesome-dubbo](https://github.com/dubbo/awesome-dubbo)
 * [大合集 | 9 场 Dubbo Meetup 回顾视频和PPT下载](http://1t.click/xmd)
 * [2017 第三届PHP全球开发者大会](https://github.com/devlinkcn/ppts_for_php2017)
+* [2019 Kubernetes & Cloud Native Meetup 合集](https://mp.weixin.qq.com/s/KDQKPf6E-8Usj7jXsSXynQ)
 
 ## 视频
 * [2017 GTLC 全球技术领导力峰会](https://daxue.qq.com/content/content/id/3384)
