@@ -22,6 +22,7 @@
 * [2016 全球技术领导力峰会——技术与领导力专场](https://daxue.qq.com/content/content/id/2732)
 * [Apache Kafka × Apache Flink Meetup-北京站-云栖社区视频源](https://yq.aliyun.com/live/981)
 * [Apache Kafka × Apache Flink Meetup-北京站-bilibili视频源](https://space.bilibili.com/33807709)
+* [OpenResty Inc. 2019 技术沙龙及商业产品交流会回顾(章亦春在北京、深圳的两场演讲)](https://blog.openresty.com.cn/cn/2019-openresty-inc-con-review/)
 
 ## 社区分享
 * [尤雨溪于深圳某司的Vue分享](https://juejin.im/post/5cf7699751882574805994c5)
