@@ -17,7 +17,7 @@
 * [2017 第三届PHP全球开发者大会](https://github.com/devlinkcn/ppts_for_php2017)
 * [2019 Kubernetes & Cloud Native Meetup 合集(待补充深圳站)](https://mp.weixin.qq.com/s/KDQKPf6E-8Usj7jXsSXynQ)
 * [2019云栖大会精品资料下载[阿里云社区]](https://developer.aliyun.com/article/719452?groupCode=tech_library)
-
+* [2019云栖大会70+份顶级大咖演讲PPT分享！[阿里云社区]](https://yq.aliyun.com/articles/720347)
 ## 视频
 * [2017 GTLC 全球技术领导力峰会](https://daxue.qq.com/content/content/id/3384)
 * [2016 全球技术领导力峰会——技术与领导力专场](https://daxue.qq.com/content/content/id/2732)
