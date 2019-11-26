@@ -50,6 +50,7 @@
 * [百格活动](https://www.bagevent.com/)
 * [又拍云OpenTalk](https://opentalk.upyun.com/)
 * [互动吧](https://www.hdb.com/)
+* [友付活动票务](https://yoopay.cn/collect/search/event)
 ## 组织
 * [Linux基金会](https://linuxfoundation.cn/)
 * [云原生软件基金会 CNCF ](https://www.cncf.io/)
