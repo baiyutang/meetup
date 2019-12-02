@@ -42,6 +42,8 @@
 * [Laracon](https://laracon.net/)
 
 ## 活动发布平台
+* [Meetup: We are what we do](https://www.meetup.com/)
+* [Eventbrite - Discover Great Events or Create Your Own & Sell Tickets](https://www.eventbrite.com/)
 * [腾讯云+社区沙龙](https://cloud.tencent.com/developer/salon)
 * [活动行-可以多留意这里](http://www.huodongxing.com/)
 * [segmentfault-活动](https://segmentfault.com/events)
