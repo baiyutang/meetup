@@ -19,7 +19,8 @@
 * [2019云栖大会精品资料下载[阿里云社区]](https://developer.aliyun.com/article/719452?groupCode=tech_library)
 * [2019云栖大会70+份顶级大咖演讲PPT分享！[阿里云社区]](https://yq.aliyun.com/articles/720347)
 * [QCon2019北京演讲稿整理合集](https://github.com/QConChina/QConBeijing2019)
-
+* [QCon上海2016](https://github.com/QConChina/QConShanghai2016)
+* [QCon上海2018](https://github.com/QConChina/QConShanghai2018)
 ## 视频
 * [2017 GTLC 全球技术领导力峰会](https://daxue.qq.com/content/content/id/3384)
 * [2016 全球技术领导力峰会——技术与领导力专场](https://daxue.qq.com/content/content/id/2732)
