@@ -3,6 +3,7 @@
 ## 衍生
 * [【大咖说PHP】分享大厂或大牛的PHP高阶玩法](https://github.com/baiyutang/awesome-php-meetup)
 ## PPT打包
+* [OSC源创会所有讲师PPT大仓库！](https://gitee.com/OSCYuanChuangHui/2018_lecturer_ppt)
 * [第43届MPD北京](https://pan.baidu.com/s/1rcuUX_E7fdGgu2-2rsSFXg)提取码:  <code>u2y8 </code>
 * [2019极客时间50G大礼包](https://pan.baidu.com/s/1wBEZVPh9NgUM49IoqH1CQw) 提取码: <code>2qga</code>(已失效，回头通过别的方式补上)
 * [2018TOP100全球软件案例研究峰会]( https://pan.baidu.com/s/1OyT4ahErtslMhgiv3yYtig) 提取码: <code>y19w</code>
