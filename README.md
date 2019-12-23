@@ -62,6 +62,7 @@
 ## 组织
 * [Linux基金会](https://linuxfoundation.cn/)
 * [云原生软件基金会 CNCF ](https://www.cncf.io/)
+* [D2 前端技术论坛 - 阿里经济体前端委员会主办的面向全球前端领域的技术论坛 ](https://github.com/d2forum)
 
 ## 相关资源推荐
 * [SpringCloud中国社区 2017-2018活动汇总](https://github.com/SpringCloud/spring-cloud-document)
