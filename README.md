@@ -4,6 +4,7 @@
 * [【大咖说PHP】分享大厂或大牛的PHP高阶玩法](https://github.com/baiyutang/awesome-php-meetup)
 * [【云原生在中国】关注云原生的技术活动及其公开资源](https://github.com/baiyutang/awesome-cloud-native-events)
 ## PPT打包
+* [第十四届D2前端技术论坛「创心」](https://github.com/d2forum/14th)
 * [OSC源创会所有讲师PPT大仓库！](https://gitee.com/OSCYuanChuangHui/2018_lecturer_ppt)
 * [第43届MPD北京](https://pan.baidu.com/s/1rcuUX_E7fdGgu2-2rsSFXg)提取码:  <code>u2y8 </code>
 * [2019极客时间50G大礼包](https://pan.baidu.com/s/1wBEZVPh9NgUM49IoqH1CQw) 提取码: <code>2qga</code>(已失效，回头通过别的方式补上)
