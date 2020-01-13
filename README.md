@@ -4,6 +4,9 @@
 * [【大咖说PHP】分享大厂或大牛的PHP高阶玩法](https://github.com/baiyutang/awesome-php-meetup)
 * [【云原生在中国】关注云原生的技术活动及其公开资源](https://github.com/baiyutang/awesome-cloud-native-events)
 ## PPT打包
+* [第三届 SEE Conf 2020 讲稿 PPT && 视频](https://www.yuque.com/seeconf/2020/slide)
+* [第二届 SEE Conf 2019 精彩回顾（附 PPT 及视频）](https://www.yuque.com/seeconf/content/kbnzac)
+* [第一届 SEE Conf 2018 精彩回顾（附 演示文稿）](https://www.yuque.com/seeconf/content/highlights)
 * [第十四届D2前端技术论坛「创心」](https://github.com/d2forum/14th)
 * [OSC源创会所有讲师PPT大仓库！](https://gitee.com/OSCYuanChuangHui/2018_lecturer_ppt)
 * [第43届MPD北京](https://pan.baidu.com/s/1rcuUX_E7fdGgu2-2rsSFXg)提取码:  <code>u2y8 </code>
