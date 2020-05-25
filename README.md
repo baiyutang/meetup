@@ -3,6 +3,10 @@
 ## 衍生
 * [【大咖说PHP】分享大厂或大牛的PHP高阶玩法](https://github.com/baiyutang/awesome-php-meetup)
 * [【云原生在中国】关注云原生的技术活动及其公开资源](https://github.com/baiyutang/awesome-cloud-native-events)
+
+## 线上沙龙
+[云+社区沙龙Online](https://cloud.tencent.com/developer/salon)
+
 ## PPT打包
 * [第三届 SEE Conf 2020 讲稿 PPT && 视频](https://www.yuque.com/seeconf/2020/slide)
 * [第二届 SEE Conf 2019 精彩回顾（附 PPT 及视频）](https://www.yuque.com/seeconf/content/kbnzac)
