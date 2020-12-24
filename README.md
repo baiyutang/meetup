@@ -8,6 +8,7 @@
 [云+社区沙龙Online](https://cloud.tencent.com/developer/salon)
 
 ## PPT打包
+* [2020年 第十五届 D2 前端技术论坛演讲 PPT](https://github.com/d2forum/15th)
 * [2018年 华为 Cloud Native Days China PPT下载合集](https://bbs.huaweicloud.com/forum/thread-10665-1-1.html)这个需要登录华为社区
 * [第三届 SEE Conf 2020 讲稿 PPT && 视频](https://www.yuque.com/seeconf/2020/slide)
 * [第二届 SEE Conf 2019 精彩回顾（附 PPT 及视频）](https://www.yuque.com/seeconf/content/kbnzac)
