@@ -79,7 +79,12 @@
 
 ## 说明
 相关资料均来自互联网分享，若涉及版权均归原作者所有，若有侵权或使用不当，请联系删除
+
+## 致谢
+该项目已申请 Jetbrains 开源项目许可证，特别感谢 Jetbrains 对开源文化的支持，和对开源项目及开发者的鼓励。
+Jetbrains 在各个开发语言贡献了世界上最棒的 IDE，以此鸣谢。也欢迎更多开源爱好者回馈社区，支持正版。
+
+
 ## Community
-* [TL Group](https://t.me/joinchat/KR5uJBYVrA-78poMy94P7w)
 * [深圳Java组](http://szjug.github.io/)
     - [WebRTC Demo](https://github.com/marcplouhinec/webrtcdemo/)
