@@ -80,9 +80,11 @@
 ## 说明
 相关资料均来自互联网分享，若涉及版权均归原作者所有，若有侵权或使用不当，请联系删除
 
-## 致谢
-该项目已申请 Jetbrains 开源项目许可证，特别感谢 Jetbrains 对开源文化的支持，和对开源项目及开发者的鼓励。
-Jetbrains 在各个开发语言贡献了世界上最棒的 IDE，以此鸣谢。也欢迎更多开源爱好者回馈社区，支持正版。
+## Jetbrains 开源项目许可证
+![Jetbrains](jetbrains-variant-4.svg)
+
+该项目已申请 [Jetbrains](https://www.jetbrains.com/?from=meetup) 开源项目许可证，特别感谢 Jetbrains 对开源文化的支持，和对开源项目及开发者的鼓励。
+Jetbrains 在各个开发语言贡献了世界上最棒的 IDE，以此鸣谢。也欢迎更多开源爱好者回馈社区，支持正版。对此感兴趣？你也可以[点此了解](https://www.jetbrains.com/zh-cn/community/opensource/#support)。
 
 
 ## Community
