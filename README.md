@@ -1,8 +1,8 @@
 # 技术会议、活动、分享
 
 ## 最新活动推荐
-1.[Gopher Meetup 深圳](https://mp.weixin.qq.com/s/8VvCrEyAwbK32CVP3eNP2g)
-2.[GopherChina 2021 大会](https://www.bagevent.com/event/7298467)
+1. [Gopher Meetup 深圳](https://mp.weixin.qq.com/s/8VvCrEyAwbK32CVP3eNP2g)
+2. [GopherChina 2021 大会](https://www.bagevent.com/event/7298467)
 
 
 ## 衍生
