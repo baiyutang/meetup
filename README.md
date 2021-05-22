@@ -11,7 +11,7 @@
 
 ## 线上沙龙
 * [云+社区沙龙Online](https://cloud.tencent.com/developer/salon)
-* [Infoq Live](https://live.infoq.cn/)
+* [InfoQ Live](https://live.infoq.cn/)
 
 ## PPT打包
 * [2020年 第十五届 D2 前端技术论坛演讲 PPT](https://github.com/d2forum/15th)
