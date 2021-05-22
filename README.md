@@ -10,7 +10,8 @@
 * [【云原生在中国】关注云原生的技术活动及其公开资源](https://github.com/baiyutang/awesome-cloud-native-events)
 
 ## 线上沙龙
-[云+社区沙龙Online](https://cloud.tencent.com/developer/salon)
+* [云+社区沙龙Online](https://cloud.tencent.com/developer/salon)
+* [Infoq Live](https://live.infoq.cn/)
 
 ## PPT打包
 * [2020年 第十五届 D2 前端技术论坛演讲 PPT](https://github.com/d2forum/15th)
