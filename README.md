@@ -2,7 +2,6 @@
 
 ## 最新活动推荐
 1. [Gopher Meetup 深圳](https://mp.weixin.qq.com/s/8VvCrEyAwbK32CVP3eNP2g)
-2. [GopherChina 2021 大会](https://www.bagevent.com/event/7298467)
 
 
 ## 衍生
@@ -14,6 +13,7 @@
 * [InfoQ Live](https://live.infoq.cn/)
 
 ## PPT 集合
+* [2021 GMTC 讲师 PPT 合集](https://www.yuque.com/zaotalk/nt/gcdkag)
 * [历年 GopherChina PPT](https://github.com/gopherchina/conference)
 * [2020年 第十五届 D2 前端技术论坛演讲 PPT](https://github.com/d2forum/15th)
 * [2018年 华为 Cloud Native Days China PPT下载合集](https://bbs.huaweicloud.com/forum/thread-10665-1-1.html)这个需要登录华为社区
