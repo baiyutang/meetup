@@ -1,7 +1,7 @@
 # 技术会议、活动、分享
 
 ## 最新活动推荐
-1. [Gopher Meetup 深圳](https://mp.weixin.qq.com/s/8VvCrEyAwbK32CVP3eNP2g)
+
 
 
 ## 衍生
@@ -61,6 +61,7 @@
 * [Laracon](https://laracon.net/)
 
 ## 活动发布平台
+* [hopin](https://hopin.com/explore)
 * [Meetup: We are what we do](https://www.meetup.com/)
 * [Eventbrite - Discover Great Events or Create Your Own & Sell Tickets](https://www.eventbrite.com/)
 * [腾讯云+社区沙龙](https://cloud.tencent.com/developer/salon)
