@@ -1,7 +1,7 @@
 # 技术会议、活动、分享
 
 ## 最新活动推荐
-
+- [Elastic Dev Day China 2021](https://conf.elasticsearch.cn/2021/index.html)
 
 
 ## 衍生
