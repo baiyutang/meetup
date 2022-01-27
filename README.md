@@ -13,6 +13,7 @@
 * [InfoQ Live](https://live.infoq.cn/)
 
 ## PPT 集合
+* [Cloudwego Meetup - 字节跳动](https://github.com/cloudwego/community/tree/main/meetup)
 * [2021 GMTC 讲师 PPT 合集](https://www.yuque.com/zaotalk/nt/gcdkag)
 * [历年 GopherChina PPT](https://github.com/gopherchina/conference)
 * [2020年 第十五届 D2 前端技术论坛演讲 PPT](https://github.com/d2forum/15th)
