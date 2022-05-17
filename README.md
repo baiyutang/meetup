@@ -37,6 +37,7 @@
 * [QCon2019北京演讲稿整理合集](https://github.com/QConChina/QConBeijing2019)
 * [QCon上海2016](https://github.com/QConChina/QConShanghai2016)
 * [QCon上海2018](https://github.com/QConChina/QConShanghai2018)
+* [大安全各领域各公司各会议分享的PPT以及各类安全研究报告](https://github.com/FeeiCN/Security-PPT)
 ## 视频
 * [“尤雨溪：聊聊Vue.js 3.0 Beta”直播视频回放](https://juejin.im/e/vue-3)
 * [2017 GTLC 全球技术领导力峰会](https://daxue.qq.com/content/content/id/3384)
