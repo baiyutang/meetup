@@ -1,7 +1,7 @@
 # 技术会议、活动、分享
 
 ## 最新活动推荐
-- [Elastic Dev Day China 2021](https://conf.elasticsearch.cn/2021/index.html)
+...
 
 
 ## 衍生
@@ -95,4 +95,10 @@ Jetbrains 在各个开发语言贡献了世界上最棒的 IDE，以此鸣谢。
 
 ## Community
 * [深圳Java组](http://szjug.github.io/)
-    - [WebRTC Demo](https://github.com/marcplouhinec/webrtcdemo/)
+* [WebRTC Demo](https://github.com/marcplouhinec/webrtcdemo/)
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=baiyutang/meetup&type=Date)](https://star-history.com/#baiyutang/meetup&Date)
+
