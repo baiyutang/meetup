@@ -1,7 +1,7 @@
 # 技术会议、活动、分享
 
 ## 最新活动推荐
-...
+- [字节跳动 CloudWeGo 源码解读-微服务中间件集合](https://github.com/baiyutang/cloudwego-read)
 
 
 ## 衍生
